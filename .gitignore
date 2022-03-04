@@ -1,0 +1,6 @@
+jup2pyenv/*
+dist/*
+build/*
+*/__pycache__/*
+JupyterPy.egg-info/*
+.ipynb_checkpoints/*
